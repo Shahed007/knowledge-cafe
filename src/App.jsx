@@ -1,13 +1,19 @@
 
 import './App.css'
+import Blogs from './components/blogs/Blogs'
+import BooksMark from './components/booksMark/BooksMark'
+import Header from './components/header/Header'
 
 function App() {
 
 
   return (
     <>
-     <h1 className='text-4xl  font-bold'>Hello react</h1>
-     <p className='text-3xl'>paragraph</p>
+     <Header></Header>
+     <div className='md:flex container mx-auto px-3'>
+     <Blogs></Blogs>
+     <BooksMark></BooksMark>
+     </div>
     </>
   )
 }
