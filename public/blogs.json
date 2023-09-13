@@ -1,48 +1,43 @@
 [
   {
-    "id": "54321",
-    "cover": "https://imgtr.ee/image/andrew-neel-cckf4TsHAuw-unsplash.2yPhv",
-    "author": "Jane Smith",
+    "id": "1",
+    "img": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "John Doe",
     "author_img": "https://randomuser.me/api/portraits/men/74.jpg",
-    "posted_date": "2023-09-11",
-    "reading_time": 30,
-    "hashtags": ["romance", "contemporary", "novel"]
+    "title": "The Art of Blogging",
+    "reading_time": 8,
+    "published_date": "2023-09-13",
+    "hashtags": ["blogging", "writing", "tips"]
   },
-
   {
-    "id": "98765",
-    "cover": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    "author": "David Johnson",
+    "id": "2",
+    "img": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "Jane Smith",
     "author_img": "https://randomuser.me/api/portraits/men/51.jpg",
-    "posted_date": "2023-09-10",
-    "reading_time": 60 ,
-    "hashtags": ["mystery", "thriller", "crime"]
+    "title": "Exploring Nature's Wonders",
+    "reading_time": 12,
+    "published_date": "2023-09-12",
+    "hashtags": ["nature", "travel", "adventure"]
   },
   {
-    "id": "45678",
-    "cover": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    "author": "Emily Brown",
+    "id": "3",
+    "img": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "Alex Johnson",
     "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
-    "posted_date": "2023-09-09",
-    "reading_time": 40,
-    "hashtags": ["science-fiction", "space", "technology"]
+    "title": "Cooking Delight: A Culinary Journey",
+    "reading_time": 10,
+    "published_date": "2023-09-11",
+    "hashtags": ["cooking", "foodie", "recipes"]
   },
   {
-    "id": "45678",
-    "cover": "https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
-    "author": "Emily Brown",
+    "id": "4",
+    "img": "https://images.unsplash.com/photo-1527168027773-0cc890c4f42e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "Emily Brown",
     "author_img": "https://randomuser.me/api/portraits/men/66.jpg",
-    "posted_date": "2023-09-09",
-    "reading_time": 40,
-    "hashtags": ["science-fiction", "space", "technology"]
-  },
-  {
-    "id": "24680",
-    "cover": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    "author": "Michael Anderson",
-    "author_img": "https://randomuser.me/api/portraits/men/88.jpg",
-    "posted_date": "2023-09-08",
-    "reading_time": 55 ,
-    "hashtags": ["fantasy", "magic", "adventure"]
+    "title": "Tech Trends 2023",
+    "reading_time": 6,
+    "published_date": "2023-09-10",
+    "hashtags": ["technology", "innovation", "trends"]
   }
+  
 ]
